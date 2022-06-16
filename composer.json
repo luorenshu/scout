@@ -12,8 +12,8 @@
     "description": "The Hyperf Scout package.",
     "authors": [
         {
-            "name": "Eric Zhu",
-            "email": "eric@zhu.email"
+            "name": "luorenshu",
+            "email": "1051953562@qq.com"
         }
     ],
     "autoload": {
